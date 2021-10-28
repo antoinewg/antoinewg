@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [pass Culture](https://github.com/pass-culture/pass-culture-app-native)
+- 👯 I’m looking to collaborate on any open source project where I can help
+
 <!--
 **antoinewg/antoinewg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
